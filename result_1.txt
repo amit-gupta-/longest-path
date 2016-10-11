@@ -1,0 +1,36 @@
+Choose number of vertices: 100
+Choose probability of edge between two vertices: 0.05
+
+GD 76 M 76 MwA 81
+GD 73 M 78 MwA 79
+GD 66 M 71 MwA 79
+GD 80 M 76 MwA 81
+GD 81 M 87 MwA 85
+GD 77 M 76 MwA 81
+GD 67 M 69 MwA 79
+GD 73 M 75 MwA 77
+GD 73 M 77 MwA 81
+GD 76 M 68 MwA 81
+GD 74 M 71 MwA 79
+GD 75 M 70 MwA 77
+GD 79 M 74 MwA 81
+GD 71 M 74 MwA 79
+GD 81 M 77 MwA 83
+GD 75 M 66 MwA 79
+GD 83 M 80 MwA 87
+GD 79 M 76 MwA 81
+GD 77 M 69 MwA 79
+GD 75 M 76 MwA 81
+GD 68 M 67 MwA 77
+GD 77 M 76 MwA 81
+GD 69 M 73 MwA 79
+GD 67 M 60 MwA 73
+GD 64 M 66 MwA 75
+GD 74 M 76 MwA 81
+GD 77 M 72 MwA 85
+GD 78 M 75 MwA 79
+GD 76 M 67 MwA 79
+GD 77 M 78 MwA 79
+Annealing was at least not worse than the other in 96.6667% of cases
+Process returned 0 (0x0)   execution time : 42.088 s
+Press any key to continue.
